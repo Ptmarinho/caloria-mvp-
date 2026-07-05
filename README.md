@@ -1,4 +1,4 @@
-# CalorIA — MVP (Sprint de Gestão Ágil de Projetos e Produtos)
+# CalorIA — MVP
 
 App mobile (iOS/Android) que registra refeições por **foto ou texto livre com IA**
 e calcula calorias e macros com base na tabela brasileira **TACO** —
